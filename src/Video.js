@@ -241,7 +241,7 @@ class Video extends Component {
 		if ((widthMain * 30 / 100) < 200) {
 			minWidth = "150px"
 		}
-		let minHeight = "30%"
+		let minHeight = "41%"
 
 		let height = String(100 / elms) + "%"
 		let width = ""
